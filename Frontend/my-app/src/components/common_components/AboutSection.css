@@ -1,0 +1,93 @@
+.about-header h3 {
+  font-size: 22px;
+  color: var(--primary-color);
+  margin-bottom: 15px;
+}
+
+.about-intro {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 25px;
+}
+
+.about-features {
+  margin-bottom: 25px;
+}
+
+.feature-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 15px 0;
+}
+
+.feature-list li {
+  padding: 8px 0;
+  position: relative;
+  padding-left: 28px;
+  line-height: 1.5;
+}
+
+.feature-list li:before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  top: 8px;
+  color: var(--primary-color);
+  font-weight: bold;
+}
+
+.feature-highlight {
+  font-weight: 600;
+  color: var(--primary-color);
+}
+
+.about-platforms p {
+  margin-bottom: 25px;
+  line-height: 1.6;
+}
+
+.about-mission {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 25px;
+}
+
+.mission-item {
+  flex: 1;
+  background-color: rgba(76, 175, 80, 0.05);
+  padding: 20px;
+  border-radius: var(--border-radius);
+  border-left: 4px solid var(--primary-color);
+}
+
+.mission-item h4 {
+  color: var(--primary-color);
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.mission-item p {
+  margin: 0;
+  line-height: 1.5;
+}
+
+.about-version {
+  border-top: 1px solid rgba(0,0,0,0.1);
+  padding-top: 20px;
+}
+
+.about-version h4 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
+.about-version p {
+  margin: 5px 0;
+}
+
+.release-date {
+  font-size: 14px;
+  color: #666;
+} 

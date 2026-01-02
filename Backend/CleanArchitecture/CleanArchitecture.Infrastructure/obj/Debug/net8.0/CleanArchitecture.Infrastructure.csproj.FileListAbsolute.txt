@@ -1,0 +1,91 @@
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend-pazartesi\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.deps.json
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend-pazartesi\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend-pazartesi\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend-pazartesi\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Core.dll
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend-pazartesi\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Core.pdb
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend-pazartesi\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend-pazartesi\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend-pazartesi\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend-pazartesi\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend-pazartesi\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend-pazartesi\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArc.38F44B56.Up2Date
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend-pazartesi\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend-pazartesi\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\refint\CleanArchitecture.Infrastructure.dll
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend-pazartesi\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend-pazartesi\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\ref\CleanArchitecture.Infrastructure.dll
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (4)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.deps.json
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (4)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (4)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (4)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Core.dll
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (4)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Core.pdb
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (4)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (4)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (4)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (4)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (4)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (4)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.CopyComplete
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (4)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (4)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\refint\CleanArchitecture.Infrastructure.dll
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (4)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (4)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\ref\CleanArchitecture.Infrastructure.dll
+C:\Users\biyik\OneDrive\Документы\GitHub\smartgreenhouse_backend\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.deps.json
+C:\Users\biyik\OneDrive\Документы\GitHub\smartgreenhouse_backend\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+C:\Users\biyik\OneDrive\Документы\GitHub\smartgreenhouse_backend\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+C:\Users\biyik\OneDrive\Документы\GitHub\smartgreenhouse_backend\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Core.dll
+C:\Users\biyik\OneDrive\Документы\GitHub\smartgreenhouse_backend\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Core.pdb
+C:\Users\biyik\OneDrive\Документы\GitHub\smartgreenhouse_backend\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\biyik\OneDrive\Документы\GitHub\smartgreenhouse_backend\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biyik\OneDrive\Документы\GitHub\smartgreenhouse_backend\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\biyik\OneDrive\Документы\GitHub\smartgreenhouse_backend\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+C:\Users\biyik\OneDrive\Документы\GitHub\smartgreenhouse_backend\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\biyik\OneDrive\Документы\GitHub\smartgreenhouse_backend\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.sourcelink.json
+C:\Users\biyik\OneDrive\Документы\GitHub\smartgreenhouse_backend\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArc.38F44B56.Up2Date
+C:\Users\biyik\OneDrive\Документы\GitHub\smartgreenhouse_backend\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+C:\Users\biyik\OneDrive\Документы\GitHub\smartgreenhouse_backend\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\refint\CleanArchitecture.Infrastructure.dll
+C:\Users\biyik\OneDrive\Документы\GitHub\smartgreenhouse_backend\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+C:\Users\biyik\OneDrive\Документы\GitHub\smartgreenhouse_backend\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\ref\CleanArchitecture.Infrastructure.dll
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.deps.json
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Core.dll
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Core.pdb
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArc.38F44B56.Up2Date
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\refint\CleanArchitecture.Infrastructure.dll
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+D:\ThirdYear_Spring\Software_Engineering\ödevler\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\ref\CleanArchitecture.Infrastructure.dll
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (5)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.deps.json
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (5)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (5)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (5)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Core.dll
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (5)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Core.pdb
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (5)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (5)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (5)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (5)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (5)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (5)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.CopyComplete
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (5)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (5)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\refint\CleanArchitecture.Infrastructure.dll
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (5)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+C:\Users\umut3\Desktop\smartgreenhouse_backend-main (5)\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\ref\CleanArchitecture.Infrastructure.dll
+C:\Users\umut3\Downloads\smartgreenhouse_backend-main\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.deps.json
+C:\Users\umut3\Downloads\smartgreenhouse_backend-main\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+C:\Users\umut3\Downloads\smartgreenhouse_backend-main\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+C:\Users\umut3\Downloads\smartgreenhouse_backend-main\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Core.dll
+C:\Users\umut3\Downloads\smartgreenhouse_backend-main\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Core.pdb
+C:\Users\umut3\Downloads\smartgreenhouse_backend-main\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\umut3\Downloads\smartgreenhouse_backend-main\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut3\Downloads\smartgreenhouse_backend-main\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\umut3\Downloads\smartgreenhouse_backend-main\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+C:\Users\umut3\Downloads\smartgreenhouse_backend-main\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\umut3\Downloads\smartgreenhouse_backend-main\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.CopyComplete
+C:\Users\umut3\Downloads\smartgreenhouse_backend-main\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+C:\Users\umut3\Downloads\smartgreenhouse_backend-main\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\refint\CleanArchitecture.Infrastructure.dll
+C:\Users\umut3\Downloads\smartgreenhouse_backend-main\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+C:\Users\umut3\Downloads\smartgreenhouse_backend-main\smartgreenhouse_backend-main\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\ref\CleanArchitecture.Infrastructure.dll

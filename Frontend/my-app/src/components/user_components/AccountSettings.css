@@ -1,0 +1,110 @@
+/* AccountSettings component styles */
+.settings-content h2 {
+    font-size: 20px;
+    color: var(--text-color);
+    margin-top: 0;
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    padding-bottom: 10px;
+  }
+  
+  .settings-section {
+    margin-bottom: 40px;
+  }
+  
+  .settings-field {
+    display: flex;
+    margin-bottom: 20px;
+    align-items: center;
+  }
+  
+  .field-label {
+    width: 120px;
+    font-weight: 500;
+    color: var(--text-color);
+  }
+  
+  .field-value {
+    flex: 1;
+    padding: 8px 0;
+    color: var(--text-color);
+  }
+  
+  .account-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    align-items: stretch;
+  }
+  
+  .change-password-btn, .logout-btn {
+    min-width: 160px;
+    max-width: 100%;
+    height: 48px;
+    border-radius: 12px;
+    font-size: 1.1rem;
+    font-weight: 700;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    transition: background 0.2s, transform 0.2s;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    cursor: pointer;
+    margin: 0;
+    box-sizing: border-box;
+    letter-spacing: 0.02em;
+    padding: 0 2rem;
+  }
+  
+  .change-password-btn {
+    background-color: #3498db;
+    color: #fff;
+  }
+  
+  .change-password-btn:hover {
+    background-color: #1976d2;
+  }
+  
+  .logout-btn {
+    background-color: #c0392b;
+    color: #fff;
+  }
+  
+  .logout-btn:hover {
+    background-color: #a93226;
+  }
+  
+  /* Loading and error states */
+  .loading-container, .error-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px;
+    width: 100%;
+    font-size: 16px;
+    color: var(--text-color);
+  }
+  
+  .error-container {
+    color: #f44336;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .settings-field {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .field-label {
+      width: 100%;
+      margin-bottom: 5px;
+    }
+  
+    .change-password-btn {
+      margin-left: 0;
+      margin-top: 10px;
+    }
+  }

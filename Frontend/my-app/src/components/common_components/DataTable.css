@@ -1,0 +1,83 @@
+.data-table-container {
+    width: 100%;
+    overflow-x: auto;
+  }
+  
+  .data-table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    background-color: var(--card-bg, #ffffff);
+  }
+  
+  .data-table thead {
+    background-color: rgba(76, 175, 80, 0.05);
+  }
+  
+  .data-table th {
+    padding: 12px 15px;
+    text-align: left;
+    font-weight: 600;
+    color: var(--primary-color, #4CAF50);
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+  }
+  
+  .data-table td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+  }
+  
+  .data-table tbody tr:hover {
+    background-color: rgba(33, 150, 243, 0.05);
+  }
+  
+  .data-table tbody tr.clickable {
+    cursor: pointer;
+  }
+  
+  .data-table-loading,
+  .data-table-empty {
+    padding: 30px;
+    text-align: center;
+    color: #666;
+  }
+  
+  /* Responsive Tasarım */
+  @media screen and (max-width: 768px) {
+    .data-table th,
+    .data-table td {
+      padding: 8px 10px;
+      font-size: 14px;
+    }
+  }
+  
+  /* Bazı özel sütun stilleri (projenize göre özelleştirilebilir) */
+  .data-table .text-center {
+    text-align: center;
+  }
+  
+  .data-table .text-right {
+    text-align: right;
+  }
+  
+  .data-table .column-small {
+    width: 80px;
+  }
+  
+  .data-table .column-medium {
+    width: 150px;
+  }
+  
+  .data-table .column-large {
+    width: 250px;
+  }
+  
+  .data-table .column-price {
+    text-align: right;
+    font-weight: 500;
+  }
+  
+  .data-table .column-status {
+    text-align: center;
+  }

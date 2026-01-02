@@ -1,0 +1,73 @@
+.admin-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #283593;
+  color: #fff;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+  min-height: 64px;
+  padding: 0 32px;
+}
+
+.admin-navbar-left {
+  display: flex;
+  align-items: center;
+}
+
+.logo-link {
+  text-decoration: none;
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+
+.admin-navbar-logo {
+  font-size: 22px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #fff;
+}
+
+.admin-navbar-right {
+  display: flex;
+  align-items: center;
+}
+
+.profile-btn {
+  background: none;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 5px 18px;
+  border-radius: 6px;
+  transition: background 0.2s, transform 0.2s;
+  font-weight: 500;
+}
+
+.account-btn {
+  background: #fff;
+  color: #283593;
+  border: 1px solid #eaeaea;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 8px 22px;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(40,53,147,0.08);
+  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+}
+
+.account-btn:hover {
+  background: #f5f6fa;
+  color: #1a237e;
+  box-shadow: 0 2px 8px rgba(40,53,147,0.13);
+}
+
+.profile-btn:hover {
+  background-color: rgba(255,255,255,0.15);
+  transform: scale(1.08);
+}
+
+.profile-icon {
+  color: #fff;
+} 

@@ -1,0 +1,502 @@
+/* Ayarlar sayfası için stil tanımlamaları */
+:root {
+  --primary-color: #2ecc71;
+  --secondary-color: #3498db;
+  --accent-color: #e67e22;
+  --background-color: #f8f9fa;
+  --card-bg: #ffffff;
+  --text-color: #2c3e50;
+  --border-radius: 12px;
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.settings-page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: var(--background-color);
+}
+
+.settings-container {
+  display: flex;
+  padding: 2rem;
+  gap: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* Sidebar stilleri */
+.settings-sidebar {
+  width: 280px;
+  background-color: var(--card-bg);
+  padding: 1.5rem;
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow);
+  height: fit-content;
+  position: sticky;
+  top: 2rem;
+}
+
+.settings-sidebar h3 {
+  font-size: 1.5rem;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  color: var(--text-color);
+  border-bottom: 2px solid rgba(0,0,0,0.08);
+  padding-bottom: 1rem;
+  font-weight: 600;
+}
+
+.settings-menu {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.settings-menu li {
+  padding: 1rem 1.25rem;
+  cursor: pointer;
+  border-radius: var(--border-radius);
+  margin-bottom: 0.5rem;
+  color: var(--text-color);
+  transition: var(--transition);
+  font-size: 1.1rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.settings-menu li:hover {
+  background-color: rgba(52, 152, 219, 0.1);
+  color: var(--secondary-color);
+  transform: translateX(5px);
+}
+
+.settings-menu li.active {
+  background-color: rgba(52, 152, 219, 0.15);
+  color: var(--secondary-color);
+  font-weight: 600;
+  box-shadow: 0 4px 12px rgba(52, 152, 219, 0.1);
+}
+
+/* Settings içerik alanı stilleri */
+.settings-content {
+  flex: 1;
+  background-color: var(--card-bg);
+  padding: 2rem;
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow);
+}
+
+.settings-content h2 {
+  font-size: 1.75rem;
+  color: var(--text-color);
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid rgba(0,0,0,0.08);
+  padding-bottom: 1rem;
+  font-weight: 600;
+}
+
+.settings-section {
+  margin-bottom: 2.5rem;
+}
+
+.settings-content h3 {
+  font-size: 1.4rem;
+  color: var(--text-color);
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+  font-weight: 600;
+}
+
+.settings-field {
+  display: flex;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+.field-label {
+  width: 120px;
+  font-weight: 500;
+  color: var(--text-color);
+}
+
+.field-value {
+  flex: 1;
+  padding: 8px 0;
+  color: var(--text-color);
+}
+
+.change-password-btn {
+  margin-left: 20px;
+  padding: 8px 16px;
+  background-color: var(--secondary-color);
+  color: white;
+  border: none;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  font-size: 14px;
+  transition: var(--transition);
+}
+
+.change-password-btn:hover {
+  background-color: #1976d2;
+  transform: translateY(-2px);
+  box-shadow: var(--shadow);
+}
+
+/* Support form styles */
+.support-form {
+  margin-top: 20px;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.75rem;
+  font-weight: 500;
+  color: var(--text-color);
+  font-size: 1.1rem;
+}
+
+.support-input, .support-textarea, .password-input {
+  width: 100%;
+  padding: 1rem 1.25rem;
+  border: 2px solid rgba(0,0,0,0.1);
+  border-radius: var(--border-radius);
+  font-size: 1.1rem;
+  transition: var(--transition);
+  background-color: var(--background-color);
+}
+
+.support-input:focus, .support-textarea:focus, .password-input:focus {
+  border-color: var(--secondary-color);
+  outline: none;
+  box-shadow: 0 0 0 4px rgba(52, 152, 219, 0.15);
+  background-color: var(--card-bg);
+}
+
+.support-textarea {
+  resize: vertical;
+  min-height: 180px;
+}
+
+.support-submit-btn, .submit-btn {
+  padding: 1rem 2rem;
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  font-size: 1.1rem;
+  font-weight: 600;
+  transition: var(--transition);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.support-submit-btn:hover, .submit-btn:hover {
+  background-color: #27ae60;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(46, 204, 113, 0.2);
+}
+
+.cancel-btn {
+  padding: 1rem 2rem;
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  font-size: 1.1rem;
+  font-weight: 600;
+  transition: var(--transition);
+}
+
+.cancel-btn:hover {
+  background-color: #c0392b;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(231, 76, 60, 0.2);
+}
+
+/* About page styles */
+.about-header h3 {
+  font-size: 22px;
+  color: var(--primary-color);
+  margin-bottom: 15px;
+}
+
+.about-intro {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 25px;
+}
+
+.about-features {
+  margin-bottom: 25px;
+}
+
+.feature-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 15px 0;
+}
+
+.feature-list li {
+  padding: 8px 0;
+  position: relative;
+  padding-left: 28px;
+  line-height: 1.5;
+}
+
+.feature-list li:before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  top: 8px;
+  color: var(--primary-color);
+  font-weight: bold;
+}
+
+.feature-highlight {
+  font-weight: 600;
+  color: var(--primary-color);
+}
+
+.about-platforms p {
+  margin-bottom: 25px;
+  line-height: 1.6;
+}
+
+.about-mission {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 25px;
+}
+
+.mission-item {
+  flex: 1;
+  background-color: rgba(76, 175, 80, 0.05);
+  padding: 20px;
+  border-radius: var(--border-radius);
+  border-left: 4px solid var(--primary-color);
+}
+
+.mission-item h4 {
+  color: var(--primary-color);
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.mission-item p {
+  margin: 0;
+  line-height: 1.5;
+}
+
+.about-version {
+  border-top: 1px solid rgba(0,0,0,0.1);
+  padding-top: 20px;
+}
+
+.about-version h4 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
+.about-version p {
+  margin: 5px 0;
+}
+
+.release-date {
+  font-size: 14px;
+  color: #666;
+}
+
+/* Yükleme ve hata durumları için */
+.loading-container, .error-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px;
+  width: 100%;
+  font-size: 16px;
+  color: var(--text-color);
+}
+
+.error-container {
+  color: #f44336;
+}
+
+/* Şifre Değiştirme Modal Stilleri */
+.password-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  backdrop-filter: blur(4px);
+}
+
+.password-modal {
+  background-color: var(--card-bg);
+  padding: 2rem;
+  border-radius: var(--border-radius);
+  width: 500px;
+  max-width: 90%;
+  box-shadow: var(--shadow);
+}
+
+.password-modal h2 {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  color: var(--text-color);
+  border-bottom: 2px solid rgba(0,0,0,0.08);
+  padding-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.error-message {
+  background-color: rgba(231, 76, 60, 0.1);
+  color: #e74c3c;
+  padding: 1rem;
+  border-radius: var(--border-radius);
+  margin-bottom: 1.5rem;
+  font-size: 1rem;
+  border-left: 4px solid #e74c3c;
+}
+
+.success-message {
+  background-color: rgba(46, 204, 113, 0.1);
+  color: var(--primary-color);
+  padding: 1rem;
+  border-radius: var(--border-radius);
+  margin-bottom: 1.5rem;
+  font-size: 1rem;
+  border-left: 4px solid var(--primary-color);
+}
+
+.password-form {
+  margin-top: 15px;
+}
+
+.password-modal-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+/* Logout styles */
+.logout-item {
+  margin-top: 2rem !important;
+  border-top: 2px solid rgba(0,0,0,0.08) !important;
+  padding-top: 1.5rem !important;
+  color: #e74c3c !important;
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.75rem !important;
+  transition: var(--transition) !important;
+  font-weight: 600 !important;
+}
+
+.logout-item:hover {
+  background-color: rgba(231, 76, 60, 0.1) !important;
+  color: #c0392b !important;
+  transform: translateX(5px) !important;
+}
+
+.logout-icon {
+  font-size: 1.25rem;
+}
+
+.logout-modal {
+  text-align: center;
+  max-width: 400px;
+}
+
+.logout-modal p {
+  margin: 1.5rem 0;
+  color: var(--text-color);
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* Responsive ayarlamalar */
+@media (max-width: 1024px) {
+  .settings-container {
+    padding: 1.5rem;
+    gap: 1.5rem;
+  }
+
+  .settings-sidebar {
+    width: 240px;
+  }
+}
+
+@media (max-width: 768px) {
+  .settings-container {
+    flex-direction: column;
+    padding: 1rem;
+  }
+
+  .settings-sidebar {
+    width: 100%;
+    position: static;
+    margin-bottom: 1.5rem;
+  }
+
+  .settings-menu {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+
+  .settings-menu li {
+    flex: 1 0 calc(50% - 0.75rem);
+    text-align: center;
+    justify-content: center;
+    min-width: 140px;
+  }
+
+  .settings-content {
+    padding: 1.5rem;
+  }
+
+  .password-modal {
+    padding: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .settings-menu li {
+    flex: 1 0 100%;
+  }
+
+  .settings-content {
+    padding: 1rem;
+  }
+
+  .password-modal {
+    padding: 1.25rem;
+  }
+
+  .support-submit-btn, .submit-btn, .cancel-btn {
+    width: 100%;
+  }
+}

@@ -1,0 +1,254 @@
+.admin-profile-page {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+  padding: 2rem;
+}
+
+.profile-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.profile-header {
+  margin-bottom: 2rem;
+}
+
+.profile-header h1 {
+  color: #2c3e50;
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin: 0;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  padding-bottom: 1rem;
+}
+
+.profile-content {
+  display: grid;
+  grid-template-columns: 2fr 1.5fr;
+  gap: 2rem;
+}
+
+.profile-section {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.profile-section h2 {
+  color: #2c3e50;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+/* Consistent styling for the account actions section */
+.profile-section:last-child {
+  padding: 2rem;
+  height: fit-content;
+}
+
+.profile-section:last-child h2 {
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+}
+
+.info-group {
+  margin-bottom: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.info-group label {
+  color: #7f8c8d;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.info-group span {
+  color: #2c3e50;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.account-section {
+  min-width: 260px;
+  max-width: 350px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.account-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  align-items: stretch;
+}
+
+.change-password-btn, .logout-btn {
+  min-width: 160px;
+  max-width: 100%;
+  height: 48px;
+  border-radius: 12px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  transition: background 0.2s, transform 0.2s;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  cursor: pointer;
+  margin: 0;
+  box-sizing: border-box;
+  letter-spacing: 0.02em;
+  padding: 0 2rem;
+}
+
+.change-password-btn {
+  background-color: #3498db;
+  color: #fff;
+}
+
+.change-password-btn:hover {
+  background-color: #1976d2;
+}
+
+.logout-btn {
+  background-color: #c0392b;
+  color: #fff;
+}
+
+.logout-btn:hover {
+  background-color: #a93226;
+}
+
+/* Loading and error states */
+.loading-container, .error-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px;
+  width: 100%;
+  font-size: 1.1rem;
+  color: #2c3e50;
+}
+
+.error-container {
+  color: #e74c3c;
+}
+
+/* Modal Styles */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  backdrop-filter: blur(4px);
+}
+
+.modal-content {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  width: 90%;
+  max-width: 400px;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.modal-content h2 {
+  color: #2c3e50;
+  font-size: 1.5rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.modal-content p {
+  color: #7f8c8d;
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+
+.modal-buttons {
+  display: flex;
+  gap: 1rem;
+}
+
+.confirm-btn, .cancel-btn {
+  flex: 1;
+  padding: 0.75rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  height: 48px;
+}
+
+.confirm-btn {
+  background-color: #e74c3c;
+  color: white;
+}
+
+.confirm-btn:hover {
+  background-color: #c0392b;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(231, 76, 60, 0.2);
+}
+
+.cancel-btn {
+  background-color: #95a5a6;
+  color: white;
+}
+
+.cancel-btn:hover {
+  background-color: #7f8c8d;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(149, 165, 166, 0.2);
+}
+
+@media (max-width: 768px) {
+  .admin-profile-page {
+    padding: 1rem;
+  }
+
+  .profile-container {
+    margin: 0;
+  }
+
+  .profile-content {
+    gap: 1.5rem;
+  }
+
+  .profile-section {
+    padding: 1.5rem;
+  }
+
+  .account-section {
+    max-width: 100%;
+    align-self: stretch;
+  }
+
+  .modal-buttons {
+    flex-direction: column;
+  }
+}
